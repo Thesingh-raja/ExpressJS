@@ -1,0 +1,22 @@
+[
+    {
+        "id":"1",
+        "name":"Thesingh",
+        "course":"Express"
+    },
+    {
+        "id":"2",
+        "name":"Balaji",
+        "course":"Stripe"
+    },
+    {
+        "id":"3",
+        "name":"Akash",
+        "course":"Node"
+    },
+    {
+        "id":"4",
+        "name":"Venkat",
+        "course":"JS"  
+    }
+]
